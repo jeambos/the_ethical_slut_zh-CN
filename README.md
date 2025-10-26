@@ -36,10 +36,18 @@
 
 ~~制作封面... 完成~~
 
-输出PDF... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0)
+~~输出PDF... 完成~~
 
-输出epub... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0)
+~~输出epub... 完成~~
 
 ### 正式本 V1.0b
 
-更换封面 ... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0b)
+更换封面 ... 完成
+
+### 在线网站 V2
+
+转换成 markdown 文档... 0%
+
+文档型电子书网站上线... 0%
+
+不断修订译文 and 捉虫 ... 无止尽
