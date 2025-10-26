@@ -12,7 +12,7 @@ by Jeambo
 
 ## 下载
 
-请移步 [Release](/release)
+请移步 ([/release](https://github.com/jeambos/the_ethical_slut_zh_cn/releases))
 
 ***
 
@@ -22,7 +22,7 @@ by Jeambo
 
 ~~翻译中... 附录~~
 
-### 试读本 V0.1
+### ~~试读本 V0.1~~
 
 ~~整理工程文件... 100%~~
 
@@ -32,16 +32,16 @@ by Jeambo
 
 ~~输出epub... 完成~~
 
-### 正式本 V1.0
+### 正式本 V1.0 
 
 ~~根据读书会意见整理译文... 100%~~
 
 ~~制作封面... 完成~~
 
-~~输出PDF... 完成~~
+输出PDF... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0)
 
-~~输出epub... 完成~~
+输出epub... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0)
 
-### V1.1
+### 正式本 V1.0b
 
-更换了封面，删除了“超越台版”字样。
+更换封面 ... [完成](https://github.com/jeambos/the_ethical_slut_zh_cn/releases/tag/v1.0b)
