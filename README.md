@@ -12,7 +12,7 @@ by Jeambo
 
 ## 下载
 
-见 Release
+请移步 [Release](/release)
 
 ***
 
