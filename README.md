@@ -10,7 +10,11 @@
 
 ## 下载
 
-请移步 ([/release](https://github.com/jeambos/the_ethical_slut_zh_cn/releases))
+请移步 [/release](https://github.com/jeambos/the_ethical_slut_zh_cn/releases)
+
+***
+
+![cover](https://raw.githubusercontent.com/jeambos/the_ethical_slut_zh-CN/refs/heads/main/cover_art/thumb.jpg "道德浪女简体中文译本封面")
 
 ***
 
@@ -22,27 +26,27 @@
 
 ### ~~试读本 V0.1~~
 
-~~整理工程文件... 100%~~
+~~整理工程文件 ...100%完成~~
 
-~~制作封面... 完成~~
+~~制作封面 ...100%完成~~
 
-~~输出PDF... 完成~~
+~~输出PD ...100%完成~~
 
-~~输出epub... 完成~~
+~~输出epub ...100%完成~~
 
 ### 正式本 V1.0 
 
-~~根据读书会意见整理译文... 100%~~
+~~根据读书会意见整理译文 ...100%完成~~
 
-~~制作封面... 完成~~
+~~制作封面 ...100%完成~~
 
-~~输出PDF... 完成~~
+~~输出PDF ...100%完成~~
 
-~~输出epub... 完成~~
+~~输出epub ...100%完成~~
 
 ### 正式本 V1.0b
 
-更换封面 ... 完成
+更换封面  ...100%完成
 
 ### 在线网站 V2
 
